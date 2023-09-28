@@ -6,7 +6,18 @@
     <description>Recent content on Sreeniche- a simple comfort blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-uk</language>
-    <lastBuildDate>Tue, 19 Sep 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://adarshs05.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 28 Sep 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://adarshs05.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Hugo</title>
+      <link>https://adarshs05.github.io/posts/hugo/</link>
+      <pubDate>Thu, 28 Sep 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://adarshs05.github.io/posts/hugo/</guid>
+      <description>This task initially appeared challenging and overwhelming, but by the end, it seemed straightforward and simple.
+I began by installing Hugo and creating two GitHub repositories named &amp;ldquo;hugo&amp;rdquo; and &amp;ldquo;adarshs05.github.io.&amp;rdquo; I cloned both repositories into my Linux terminal. Next, I navigated to the &amp;ldquo;hugo&amp;rdquo; repository and used the command &amp;ldquo;hugo new site sreeniche&amp;rdquo; to create a new directory containing all the necessary tools and files to build the website.
+To gain a better understanding of the process, I referred to a YouTube tutorial.</description>
+    </item>
+    
     <item>
       <title>My First Blog</title>
       <link>https://adarshs05.github.io/posts/my_first_post/</link>
